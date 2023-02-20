@@ -1,0 +1,10 @@
+Java Unit Testing-Type of software testing where one individual piece of code or  unit is being tested by itself.
+It verifies that that piece of code is working properly.
+That "single piece of code" can be a class or methods inside a class
+
+We can use Junit framework/libraries to write our unit tests
+Inorder to use junit we have to add it as a dependency via "dependency management tool" here we are using "Gradle"
+
+
+Assertion statements-Testing in functionality here we bascially tetsing for functionality,we set our expecattion and comapre the
+expecatation against the actual value that we are getting after running application.
